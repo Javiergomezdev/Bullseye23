@@ -8,6 +8,7 @@
 import SwiftUI
 
 @main
+
 struct Bullseye23App: App {
     var body: some Scene {
         WindowGroup {
